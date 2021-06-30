@@ -1,3 +1,7 @@
+## ?.?.?
+
+* Fixed a bug in the asynchronous variant of the logging wrapper.
+
 ## 0.4.0
 
 * An asynchronous variant of the logging wrapper is now available:
